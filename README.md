@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-dania/react-testing-and-deployment/pull/1)
 
 
 ### Setup
