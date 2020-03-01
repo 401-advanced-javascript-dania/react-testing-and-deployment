@@ -17,4 +17,5 @@ describe('<Main/>',()=>{
         const tree = renderer.create(<Main/>).toJSON();
         expect(tree).toMatchSnapshot();
     })
+    
 })
