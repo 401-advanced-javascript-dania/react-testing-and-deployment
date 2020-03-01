@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-testing-and-deployment/static/css/main.d594792a.chunk.css",
+    "main.js": "/react-testing-and-deployment/static/js/main.0b3eeabf.chunk.js",
+    "main.js.map": "/react-testing-and-deployment/static/js/main.0b3eeabf.chunk.js.map",
+    "runtime-main.js": "/react-testing-and-deployment/static/js/runtime-main.624ed198.js",
+    "runtime-main.js.map": "/react-testing-and-deployment/static/js/runtime-main.624ed198.js.map",
+    "static/js/2.f599c83b.chunk.js": "/react-testing-and-deployment/static/js/2.f599c83b.chunk.js",
+    "static/js/2.f599c83b.chunk.js.map": "/react-testing-and-deployment/static/js/2.f599c83b.chunk.js.map",
+    "index.html": "/react-testing-and-deployment/index.html",
+    "precache-manifest.b89feea87e4d57aeffb45d1f3bce830d.js": "/react-testing-and-deployment/precache-manifest.b89feea87e4d57aeffb45d1f3bce830d.js",
+    "service-worker.js": "/react-testing-and-deployment/service-worker.js",
+    "static/css/main.d594792a.chunk.css.map": "/react-testing-and-deployment/static/css/main.d594792a.chunk.css.map",
+    "static/js/2.f599c83b.chunk.js.LICENSE.txt": "/react-testing-and-deployment/static/js/2.f599c83b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.624ed198.js",
+    "static/js/2.f599c83b.chunk.js",
+    "static/css/main.d594792a.chunk.css",
+    "static/js/main.0b3eeabf.chunk.js"
+  ]
+}
