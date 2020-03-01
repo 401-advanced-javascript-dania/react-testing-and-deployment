@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main/> render correctly 1`] = `
+<article>
+  <h2>
+    0
+  </h2>
+  <button
+    className="one"
+    onClick={[Function]}
+  >
+    counterup
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    counterdown
+  </button>
+</article>
+`;
